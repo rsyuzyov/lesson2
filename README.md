@@ -2,22 +2,40 @@
 
 ## Полезные ссылки
 
-- [Perplexity](https://www.perplexity.ai/)
-- https://git-scm.com/book/ru/v2
-- https://ohmygit.org/
 - [Урок 1](https://gist.github.com/rsyuzyov/c0334b86ca55886cc20defbd8078ee5a)
 - https://proxy6.net
 
-## Краткая инструкция: установка VS Code + Kilo Code
+- [Perplexity](https://www.perplexity.ai/)
 
-1. Установи [Visual Studio Code](https://code.visualstudio.com/) для своей ОС.
-2. Открой VS Code и перейди в раздел Extensions (`Ctrl+Shift+X`).
-3. Найди расширение **Kilo Code** и нажми **Install**.
-4. Перезапусти VS Code (если потребуется).
-5. Авторизуйся в Kilo Code (через встроенную форму входа).
-6. Открой папку проекта и начни работу через чат Kilo Code.
-7. Если Marketplace недоступен: скачай файл расширения `.vsix` со страницы расширения (кнопка **Download Extension**), затем в VS Code открой Extensions → меню `...` → **Install from VSIX...** и укажи скачанный файл.
+### изучение git
 
-## TODO
+- https://git-scm.com/book/ru/v2
+- https://ohmygit.org/
 
-- добавить ссылку на мануал, где описаны оплаты
+### Сервисы одноразовых смс:
+
+https://365sms.biz/rent
+Для claude code подходят смс из Украины, режим аренды (это важно!) - два-три номера может быть придется перебрать.
+
+### Генератор кредиток:
+
+https://www.browserstack.com/free-tools/credit-card-number-generator
+
+## Способы оплаты
+
+### Платежные сервисы
+
+- https://ggsel.net
+- https://plati.market
+- https://funpay.com
+- https://kupikod.com
+- https://payment.mts.ru/tools
+
+Также есть сервисы в telegram, ими тоже несколько раз пользовался - работают, но в целом показалось менее удобным вариантом
+
+### Личная карта Visa, Mastercard
+
+Рейтинг зарубежных виртуальных карт: https://exnode.ru/virtual-cards
+
+- @platipomiru_bot - проверено лично, пользуюсь сам. Открытие ~3К, ежегодное обслуживание ~1К, комиссии что-то около 0.25 евро на операцию.
+- @zarub_robot, он же @zcard - проверено знакомыми, отзывы положительные. Открытие 8$. Но в конце рейтинга, немало плохих отзывов
