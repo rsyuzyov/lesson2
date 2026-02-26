@@ -6,6 +6,7 @@
 - https://git-scm.com/book/ru/v2
 - https://ohmygit.org/
 - [Урок 1](https://gist.github.com/rsyuzyov/c0334b86ca55886cc20defbd8078ee5a)
+- https://proxy6.net
 
 ## Краткая инструкция: установка VS Code + Kilo Code
 
